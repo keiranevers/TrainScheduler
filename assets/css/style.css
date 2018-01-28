@@ -1,0 +1,18 @@
+body{
+  background: url(../img/trainstation.jpg);
+}
+.heading {
+	text-align:center;
+	color: white;
+	background-color: black;
+	padding: 20px;
+
+}
+.trainInfo {
+	color: white;
+	background-color: black;
+}
+label {
+	color: white;
+	background-color: black;	
+}
